@@ -21,6 +21,7 @@ Pada tutorial ini saya akan membahas beberapa jenis kalkulasi yang dapat dilakuk
 -  Rashba Effect dan parameter Rashba
 -  Berry curvature
 -  Konduktivitas Hall anomali
+-  Edge states
 -  Z2 invariant
 
 Penjelasan mengenai topik-topik ini silahkan akses pada bagian branches
