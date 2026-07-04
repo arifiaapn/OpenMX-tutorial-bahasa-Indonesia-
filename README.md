@@ -24,7 +24,13 @@ Pada tutorial ini saya akan membahas beberapa jenis kalkulasi yang dapat dilakuk
 -  Konduktivitas Hall anomali
 -  Edge states
 -  Z2 invariant
+-  dll
 
-Penjelasan mengenai topik-topik ini silahkan akses pada bagian branches
--  dll.
+## Penjelasan mengenai topik-topik ini silahkan akses pada bagian branches
+
+Caranya
+(1) Klik tombol 'main' di bagian atas,
+(2) akan muncul lists branches yang dapat dipilih
+(3) Klik branches yang anda pilih.
+(4) Untuk kembali ke halaman depan atau menuju ke branches lain, klik tombol serupa (1).
 
