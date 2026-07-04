@@ -3,7 +3,7 @@ OpenMX adalah suatu perangkat lunak untuk perhitungan karakter fisis material be
 
 Untuk instalasi OpenMX silahkan mengacu pada buku petunjuk resmi dari pengembang OpenMX di https://openmx-square.org/
 
-Pada tutorial ini saya akan membahas beberapa jenis kalkulasi yang dapat dilakukan dengan OpenMX disertai sedikit konsep dasar fisika dari kalkulasi tersebut.
+Pada tutorial ini saya akan membahas beberapa jenis kalkulasi yang dapat dilakukan dengan OpenMX dan beberapa software pendukung, disertai sedikit konsep dasar fisika dari kalkulasi-kalkulasi tersebut.
 -  Optimasi Kisi
 -  Analisis geometri teroptimasi
 -  SCF
