@@ -29,8 +29,8 @@ Pada tutorial ini saya akan membahas beberapa jenis kalkulasi yang dapat dilakuk
 ## Penjelasan mengenai topik-topik ini silahkan akses pada bagian branches
 
 Caranya
-(1) Klik tombol 'main' di bagian atas,
-(2) akan muncul lists branches yang dapat dipilih
-(3) Klik branches yang anda pilih.
-(4) Untuk kembali ke halaman depan atau menuju ke branches lain, klik tombol serupa (1).
+(1) Klik menu drop-down 'main' di bagian atas,
+(2) akan muncul list branches yang dapat dipilih
+(3) Klik branch yang anda pilih.
+(4) Untuk kembali ke halaman depan atau menuju ke branch lain, klik tombol serupa (1).
 
