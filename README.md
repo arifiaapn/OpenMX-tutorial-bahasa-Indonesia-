@@ -1,4 +1,4 @@
-# OpenMX-tutorial-bahasa-Indonesia
+# OpenMX-tutorial-bahasa-Indonesia-
 OpenMX adalah suatu perangkat lunak untuk perhitungan karakter fisis material berbasis Density Functional Theory. Seiring meningkatnya jumlah pengguna OpenMX di Indonesia, tutorial sederhana dengan bahasa Indonesia saya kira sangat diperlukan, terutama untuk pemula. 
 
 Untuk instalasi OpenMX silahkan mengacu pada buku petunjuk resmi dari pengembang OpenMX di https://openmx-square.org/
