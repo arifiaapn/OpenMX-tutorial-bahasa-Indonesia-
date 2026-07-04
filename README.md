@@ -6,7 +6,6 @@ Untuk instalasi OpenMX silahkan mengacu pada buku petunjuk resmi dari pengembang
 Pada tutorial ini saya akan membahas beberapa jenis kalkulasi yang dapat dilakukan dengan OpenMX dan beberapa software pendukung, disertai sedikit konsep dasar fisika dari kalkulasi-kalkulasi tersebut.
 -  Optimasi Kisi
 -  Analisis geometri teroptimasi
--  SCF
 -  Distribusi muatan
 -  Potensial elektrostatik
 -  Struktur Pita Energi (Band Structure)
